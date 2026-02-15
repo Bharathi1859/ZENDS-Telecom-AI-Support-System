@@ -1,0 +1,11 @@
+pandas 
+random 
+transformers 
+torch
+matplotlib
+seaborn
+scikit-learn
+sentence-transformers 
+chromadb 
+streamlit 
+joblib
