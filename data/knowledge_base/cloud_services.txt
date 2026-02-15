@@ -1,0 +1,17 @@
+Cloud & Data Center Services
+
+ZENDCloud VM Basic is priced at $40 in the USA, $24 in India, $44 in Singapore, and $32 in Thailand for
+individual users, and $35 in the USA, $21 in India, $38 in Singapore, and $28 in Thailand for enterprise
+customers. ZENDCloud VM Pro is priced at $80 in the USA, $48 in India, $88 in Singapore, and $64 in
+Thailand for individual users, and $70 in the USA, $42 in India, $77 in Singapore, and $56 in Thailand for
+enterprise customers. ZENDCloud VM Enterprise is priced at $150 in the USA, $90 in India, $165 in
+Singapore, and $120 in Thailand for individual users, and $130 in the USA, $78 in India, $143 in Singapore,
+and $104 in Thailand for enterprise customers. ZENDStorage 1TB is priced at $20 in the USA, $12 in India,
+$22 in Singapore, and $16 in Thailand for individual users, and $15 in the USA, $9 in India, $16 in Singapore,
+and $12 in Thailand for enterprise customers. ZENDStorage 10TB is priced at $120 in the USA, $72 in India,
+$132 in Singapore, and $96 in Thailand for individual users, and $100 in the USA, $60 in India, $110 in
+Singapore, and $80 in Thailand for enterprise customers. ZENDArchive Storage is priced at $50 in the USA,
+$30 in India, $55 in Singapore, and $40 in Thailand for individual users, and $40 in the USA, $24 in India, $44
+in Singapore, and $32 in Thailand for enterprise customers.
+Services include virtual machines, file storage, backup and disaster recovery, cloud networking, cloud
+migration support, API integrations, monitoring, and dedicated enterprise support

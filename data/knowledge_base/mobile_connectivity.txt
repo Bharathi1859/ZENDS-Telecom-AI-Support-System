@@ -1,0 +1,22 @@
+Mobile Connectivity
+
+ZENDS provides prepaid and postpaid mobile services using a 5G-enabled telecom network.
+The prepaid mobile plans include Prepaid Basic with 5GB, priced at $60 in the USA, $36 in India, $66 in
+Singapore, and $48 in Thailand for individual users, and $48 in the USA, $28 in India, $56 in Singapore, and
+$38 in Thailand for enterprise customers. Prepaid Plus with 20GB is priced at $80 in the USA, $48 in India,
+$88 in Singapore, and $64 in Thailand for individual users, and $60 in the USA, $29 in India, $76 in
+Singapore, and $52 in Thailand for enterprise customers. Prepaid Unlimited is priced at $100 in the USA,
+$60 in India, $110 in Singapore, and $80 in Thailand for individual users, and $80 in the USA, $50 in India,
+$90 in Singapore, and $70 in Thailand for enterprise customers.
+Postpaid Silver with 50GB is priced at $70 in the USA, $42 in India, $77 in Singapore, and $56 in Thailand for
+individual users, and $60 in the USA, $36 in India, $66 in Singapore, and $48 in Thailand for enterprise
+customers. Postpaid Gold with 100GB is priced at $100 in the USA, $60 in India, $110 in Singapore, and $80
+in Thailand for individual users, and $80 in the USA, $50 in India, $90 in Singapore, and $70 in Thailand for
+enterprise customers. Postpaid Platinum with unlimited data and international calls is priced at $120 in the
+USA, $72 in India, $132 in Singapore, and $96 in Thailand for individual users, and $110 in the USA, $66 in
+India, $121 in Singapore, and $88 in Thailand for enterprise customers.
+Services include voice calling, SMS, 5G mobile data, international roaming, voicemail, SIM and eSIM
+provisioning, customer support, mobile app management, and plan upgrades. Mobile connectivity also
+1
+includes plan upgrade options, add-on data packages, roaming packages, and value-added services like
+mobile insurance and family plan support.

@@ -1,0 +1,15 @@
+IoT & Smart Solutions
+
+Products include ZENDSmart Traffic priced at $100 in the USA, $60 in India, $110 in Singapore, and $80 in
+Thailand for individual users, and $90 in the USA, $54 in India, $99 in Singapore, and $72 in Thailand for
+enterprise customers. ZENDSmart Lighting is priced at $80 in the USA, $48 in India, $88 in Singapore, and
+$64 in Thailand for individual users, and $70 in the USA, $42 in India, $77 in Singapore, and $56 in Thailand
+for enterprise customers. ZENDSmart Parking is priced at $60 in the USA, $36 in India, $66 in Singapore,
+and $48 in Thailand for individual users, and $50 in the USA, $30 in India, $55 in Singapore, and $40 in
+Thailand for enterprise customers. ZENDIndustrial Sensor is priced at $120 in the USA, $72 in India, $132 in
+Singapore, and $96 in Thailand for individual users, and $100 in the USA, $60 in India, $110 in Singapore,
+and $80 in Thailand for enterprise customers. ZENDFleet IoT is priced at $150 in the USA, $90 in India, $165
+in Singapore, and $120 in Thailand for individual users, and $130 in the USA, $78 in India, $143 in
+Singapore, and $104 in Thailand for enterprise customers.
+Services include sensor connectivity, real-time data processing, device management, analytics, smart city
+integrations, remote monitoring, reporting dashboards, and predictive maintenance.

@@ -1,0 +1,15 @@
+Business Connectivity
+
+ZENDBiz Connect 100 is priced at $70 in the USA, $42 in India, $77 in Singapore, and $56 in Thailand for
+individual users, and $60 in the USA, $36 in India, $66 in Singapore, and $48 in Thailand for enterprise
+customers. ZENDBiz Connect 500 is priced at $120 in the USA, $72 in India, $132 in Singapore, and $96 in
+Thailand for individual users, and $100 in the USA, $60 in India, $110 in Singapore, and $80 in Thailand for
+enterprise customers. ZENDBiz Connect 1G is priced at $200 in the USA, $120 in India, $220 in Singapore,
+and $160 in Thailand for individual users, and $180 in the USA, $108 in India, $198 in Singapore, and $144 in
+Thailand for enterprise customers. ZENDEnterprise Ultra is priced at $300 in the USA, $180 in India, $330 in
+Singapore, and $240 in Thailand for individual users, and $280 in the USA, $168 in India, $308 in Singapore,
+and $224 in Thailand for enterprise customers. ZENDEnterprise Dedicated is priced at $500 in the USA, $300
+in India, $550 in Singapore, and $400 in Thailand for individual users, and $450 in the USA, $270 in India,
+$495 in Singapore, and $360 in Thailand for enterprise customers.
+Services include dedicated bandwidth, MPLS connectivity, SLA-backed uptime, priority troubleshooting,
+customized network solutions for enterprises, and optional security and monitoring add-ons

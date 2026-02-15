@@ -1,0 +1,14 @@
+Company Policies
+
+Billing: Monthly billing in advance. Enterprise customers receive consolidated invoices. Late payment after 7
+days may suspend services.
+Refund: Full refund within 7 days if usage is less than 10%. Cloud services are non-refundable after
+activation.
+3
+Contracts: Individual users have no long-term lock-in. Enterprise customers have a minimum 12-month
+contract.
+SLA: Individual users have 98.5% uptime, business users 99.5% uptime, and enterprise users 99.9% uptime.
+Data Privacy: GDPR compliant, ISO 27001 certified, and encrypted data at rest and in transit.
+Fair Usage: Unlimited plans are capped at 1TB per month.
+Support Tiers: Standard, Priority, and Enterprise Dedicated Support.
+Discounts: Bulk enterprise users can receive up to 30% discount. Annual payment discount is 15%
