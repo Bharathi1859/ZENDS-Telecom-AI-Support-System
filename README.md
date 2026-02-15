@@ -56,6 +56,31 @@ Visualization: Plotly
 
 - Modular and scalable architecture
 
+## ⚠️ Model Files Notice
+
+Due to GitHub file size limitations (200MB per file), 
+the trained transformer models are not included in this repository.
+
+The models were fine-tuned using Google Colab GPU 
+and stored locally for deployment.
+
+To use this project:
+
+1. Train the models using provided notebook (Colab)
+2. Save them as:
+   - intent_model/
+   - sentiment_model/
+3. Place them inside the project directory
+
+### (OR)
+
+## 📥 Download Trained Models
+
+Intent Model/sentiment model: [(https://drive.google.com/drive/folders/1-xQ9CJyzk0lUKQNxQnMl2PmDCgYI6-cg?usp=drive_link)]
+
+Download and place inside project folder before running.
+
+
 ### 🔍 Why RAG?
 
 Retrieval-Augmented Generation ensures:
